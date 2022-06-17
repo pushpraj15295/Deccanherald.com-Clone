@@ -1,0 +1,66 @@
+.tech_heading{
+   padding: 30px; 
+}
+.tech_topdiv{
+   display: flex;
+   background-color: rgba(255,102,102,.1);
+   gap:30px;
+   width: 100%;
+   margin: auto;
+   padding: 30px 30px 30px 30px;
+   margin-bottom: 30px;
+   height: 400px;
+}
+.tech_innerCont{
+    display: flex;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+    padding: 20px;
+    background-color: white;
+}
+.tech_topdiv2{
+    display: flex;
+    padding-bottom: 20px;
+    margin-left: 25%;
+    margin-right: 20%;
+}
+.tech_imghead{
+    background-color: rgb(209, 163, 77);
+    font-size: 30px;
+    padding: 40px;
+}
+.tech_inner{
+    background-color: white;
+    padding: 60px 20px 30px 20px;
+
+}
+.tech_head{
+    font-size: 30px;
+}
+
+
+.mapMainDiv{
+    width: 100%;
+    height: auto;
+    /* border: 2px solid blue; */
+    display: flex;
+    gap: 40px
+    ;
+
+}
+
+
+.mapLeftDiv{
+    width: 70%;
+    height: auto;
+    /* border: 2px solid  blueviolet; */
+}
+
+
+
+.mapRightDiv{
+    width:25%;
+   height :auto;
+   /* border : 3px  solid   black */
+
+}

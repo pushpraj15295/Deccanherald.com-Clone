@@ -1,0 +1,83 @@
+.bmaindiv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* grid-template-rows: repeat(1,1fr); */
+    gap: 20px;
+    /* background-color: #f6f6f6; */
+    /* height: 400px;
+    width: 80%;
+    margin: auto; */
+    font-size: 15px;
+}
+.bcimg{
+  width: 100%;
+  height: 50%;
+}
+.bcontainer{
+    /* height: 550px; */
+    /* border: 1px solid black; */
+    width: 70%;
+    margin-left: 30px;
+   
+}
+.btopdiv{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+    /* margin-left: 30px;
+    margin-right: 30px; */
+}
+.bhead{
+    background-color:rgb(0, 132, 255);
+    color: white;
+    font-size: 45px;
+}
+.bheading{
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.Business_static1{
+    display: flex;
+    gap: 70px;
+    padding:30px 20px 30px 70px;
+}
+.business_static2{
+    background-color:  #f6f6f6;
+}
+
+.business_static2>div img {
+    width: 100px;
+    
+}
+.business_innerdiv{
+    display: flex;
+    gap:30px;
+
+    padding: 20px;
+}
+.business_bottom_div{
+    display: flex;
+}
+.business_adds{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px
+    ;
+    /* padding: 30px;
+    padding-left: 25%; */
+}
+.business_static4{
+    padding: 50px;
+}
+.business_static5{
+    padding: 50px;
+}
+.bmaindiv div{
+    border: 1px solid rgb(184, 177, 177);
+    /* height: 200px; */
+    border-radius: 5px;
+}

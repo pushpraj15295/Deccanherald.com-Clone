@@ -1,0 +1,86 @@
+.footerDiv{
+  
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   height: auto;
+   /* border: 10px solid rebeccapurple; */
+
+}
+
+.fullDiv{
+    width: 100%;
+    height: auto;
+    /* border: 20px solid blue; */
+    box-sizing: border-box;
+}
+.footerDiv  p:hover{
+    text-decoration: underline;
+}
+
+.footerMainDiv{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    /* display: grid; */
+    /* grid-template-columns: (8,1fr); */
+    display: flex;
+    
+    /* border: 1px solid red; */
+
+    color: white;
+    gap: 30px;
+  justify-content: start;
+}
+.footerMainDiv div{
+    /* border: 1px solid black; */
+    text-align: start;
+
+}
+
+.IPLDiv{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    color: white;
+    gap: 10px;
+    /* border: 1px solid black; */
+
+}
+.IPLDiv h5{
+    border: 1px solid black;
+}
+
+.downBox{
+    width: 90%;
+    display: flex;
+    gap: 20px;
+    height: auto;
+    /* border: 1px solid black; */
+    margin-left: 70px;
+    color: gray;
+    font-size: 15px;
+}
+
+.downBox h6{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+.imgDiv{
+    display: flex;
+    gap: 20px;
+
+}
+
+.down{
+    
+margin-top: -20px;
+}
+
+
+.vl {
+  border-left: 1px solid gray;
+  color: gray;
+  height: 100%;
+}

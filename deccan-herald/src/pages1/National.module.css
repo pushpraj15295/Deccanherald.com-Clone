@@ -1,0 +1,79 @@
+.nationalMainDiv{
+    width: 100%;
+    height: auto;
+    /* border: 2px solid rebeccapurple; */
+    display: flex;
+    gap:20px;
+}
+ .leftDiv{
+    width: 70%;
+    height: auto;
+    /* border: 1px solid red; */
+}
+
+.rightDiv{
+    width: 30%;
+    height: auto;
+    /* border: 2px solid blue; */
+}
+
+
+.National_heading{
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 20px;
+    /* background-color: blue; */
+    color: white;
+    /* border: 1px solid red; */
+}
+.National_static1{
+    display: flex;
+    gap: 70px;
+    padding:30px 20px 30px 70px;
+    /* border: 1px solid rgb(179, 255, 0); */
+}
+
+.l1div{
+    width: 33%;
+    height: auto;
+}
+.National_static2{
+    background-color:  #f6f6f6;
+    /* border: 1px solid rgb(31, 12, 12); */
+    width: 35%;
+    height: auto;
+}
+.National_innerdiv{
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    /* border: 1px solid rgb(98, 0, 255); */
+}
+.National_innerdiv img{
+    width: 100px;
+}
+.National_adds{
+    /* border: 2px solid red; */
+    /* padding: 30px;
+    padding-left: 10%; */
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+
+
+}
+.National_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:30px;
+    /* border: 1px solid black; */
+}
+.National_imgdiv{
+    padding-left: 30px;
+    /* margin-bottom: 50px; */
+    padding-top: 100px;
+    padding-right: 30px;
+    /* border: 1px solid rgb(21, 255, 0); */
+}

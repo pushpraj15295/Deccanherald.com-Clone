@@ -1,0 +1,63 @@
+.BigBox{
+    width: 90%;
+    height: auto;
+    display: flex;
+    /* border: 1px solid blue; */
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.BigBox div{
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+
+.BigBox>.leftBox img{
+    height: 50%;
+
+}
+
+.topStory{
+    width: 100%;
+    height: auto;
+    display: flex;
+    /* border: 1px solid red; */
+   
+ margin-top: 50px;
+}
+
+.topStory .leftDiv{
+    width: 70%;
+    height: auto;
+    /* border: 1px solid blue; */
+}
+
+.topStory .rightDiv{
+    width: 30%;
+    height: auto;
+    /* border: 2px solid blueviolet; */
+}
+
+.rightDiv div{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.rightDiv>div img{
+    width: 80%;
+    height: 30%;
+    
+   margin: auto;
+   margin-top: 100px;
+    font-weight: bold;
+}
+
+.nationalDiv{
+    width: 80%;
+    margin: auto;
+    /* border: 2px solid red; */
+}
