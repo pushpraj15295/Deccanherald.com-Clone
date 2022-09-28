@@ -4,10 +4,10 @@
 
 ## Team members:
 1.PushpRaj Patel 
-2. 
-3. 
-4. 
-5.
+2. Pawan Ambulkar
+3. Pooja Dhuri
+4. Govind Sahu
+5. Rupesh Sahu
 
 
 ## Project Details:
@@ -49,16 +49,6 @@ bodyShower Page**
 
 **Footer**
 ![Fragnaces](https://raw.githubusercontent.com/pushpraj15295/deccan-project4/main/dk/dk5.png)
-
-
-
-
-
-
-
-
-
-
 
 
 that was a very intresting journey with team and facing lot's off up's and down but fainal aoutcome is really good .
