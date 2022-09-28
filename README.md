@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/pushpraj15295/deccan-project4/main/dk/dk.png" >
 
-## Team members:
-1.PushpRaj Patel 
-2. Pawan Ambulkar
-3. Pooja Dhuri
-4. Govind Sahu
-5. Rupesh Sahu
+## Team members: <br/>
+1.PushpRaj Patel  <br/>
+2. Pawan Ambulkar <br/>
+3. Pooja Dhuri  <br/>
+4. Govind Sahu <br/>
+5. Rupesh Sahu <br/>
 
 
 ## Project Details:
